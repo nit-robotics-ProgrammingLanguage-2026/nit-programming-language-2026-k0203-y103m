@@ -1,0 +1,13 @@
+schema: "classroom50/repo-config/v1"
+classroom: "nit-programming-language-2026"
+assignment: "k0203"
+secret: "nmm2dsr0"
+owner:
+  username: "y103m"
+  id: 334790069
+  accepted_at: "2026-10-05T09:14:15Z"
+source:
+  owner: "nit-robotics-ProgrammingLanguage-2026"
+  owner_id: 326343566
+  repo: "template-task0203-backslash"
+  branch: "main"
